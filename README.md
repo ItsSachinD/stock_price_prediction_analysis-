@@ -30,9 +30,3 @@ This project is a simple implementation of stock price prediction using LSTM (Lo
 5. Train the model
 6. Make predictions
 7. Visualize results
-
-## ▶️ How to run this project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
